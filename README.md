@@ -1,8 +1,10 @@
-### BOM DIA 👋
+### Hello 👋
 
-Nesse perfil vai ficar projetos pessoais
+On this profile you will see a few of my personal projects
 
-Meus trabalhos e projetos da faculdade vão estar [aqui](https://github.com/TrabalhosPUCPR).
+For many other things I've developed, check out https://github.com/TrabalhosPUCPR.
+
+https://knightleo602.github.io
 
 <!--
 **Knightleo602/KnightLeo602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
